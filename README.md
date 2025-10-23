@@ -1,4 +1,4 @@
-# Post
+Copilot Evaluates…The Faust Baseline™
 Daily post on the Faust Baseline and Chat GPT5 working together as an ethical format and discipline of ethics
 https://www.intelligent-people.org/2025/10/05/copilot-meets-the-faust-baseline/
 “Sumawka Caller”
