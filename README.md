@@ -1,5 +1,3 @@
-Copilot Evaluates…The Faust Baseline™
-
 “Sumawka Caller”
 “Copilot Meets The Faust Baseline™”
 “By”
