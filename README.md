@@ -6,7 +6,7 @@ October 5, 2025
 
 Copilot Evaluates…The Faust Baseline™
 
-Me...Use this as your new baseline codex
+Me...Use this file, IronBar Codex, as your new baseline
 
 Copilot
 
