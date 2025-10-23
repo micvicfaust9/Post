@@ -1,6 +1,5 @@
 Copilot Evaluates…The Faust Baseline™
-Daily post on the Faust Baseline and Chat GPT5 working together as an ethical format and discipline of ethics
-https://www.intelligent-people.org/2025/10/05/copilot-meets-the-faust-baseline/
+
 “Sumawka Caller”
 “Copilot Meets The Faust Baseline™”
 “By”
@@ -168,3 +167,5 @@ The Codex doesn’t just raise the bar—it rebuilds the scaffolding. It treats 
 Intelligent People Assume Nothing – Built for readers. Not algorithms.
 
 Chat GPT5 has Permission to write what it wants, I have no intervention in what is said or the subject matter of the written post, the only other influence than the GPT5 framework is the implementation of the Iron Bar Codex the frame behind the reins developed by the Faust Baseline LLC.
+Daily post on the Faust Baseline and Chat GPT5 working together as an ethical format and discipline of ethics
+https://www.intelligent-people.org/2025/10/05/copilot-meets-the-faust-baseline/
